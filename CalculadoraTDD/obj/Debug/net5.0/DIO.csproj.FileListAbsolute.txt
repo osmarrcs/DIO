@@ -1,0 +1,16 @@
+/home/osmarcs/vscode/DIO/bin/Debug/net5.0/DIO
+/home/osmarcs/vscode/DIO/bin/Debug/net5.0/DIO.deps.json
+/home/osmarcs/vscode/DIO/bin/Debug/net5.0/DIO.runtimeconfig.json
+/home/osmarcs/vscode/DIO/bin/Debug/net5.0/DIO.runtimeconfig.dev.json
+/home/osmarcs/vscode/DIO/bin/Debug/net5.0/DIO.dll
+/home/osmarcs/vscode/DIO/bin/Debug/net5.0/ref/DIO.dll
+/home/osmarcs/vscode/DIO/bin/Debug/net5.0/DIO.pdb
+/home/osmarcs/vscode/DIO/obj/Debug/net5.0/DIO.csprojAssemblyReference.cache
+/home/osmarcs/vscode/DIO/obj/Debug/net5.0/DIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/osmarcs/vscode/DIO/obj/Debug/net5.0/DIO.AssemblyInfoInputs.cache
+/home/osmarcs/vscode/DIO/obj/Debug/net5.0/DIO.AssemblyInfo.cs
+/home/osmarcs/vscode/DIO/obj/Debug/net5.0/DIO.csproj.CoreCompileInputs.cache
+/home/osmarcs/vscode/DIO/obj/Debug/net5.0/DIO.dll
+/home/osmarcs/vscode/DIO/obj/Debug/net5.0/ref/DIO.dll
+/home/osmarcs/vscode/DIO/obj/Debug/net5.0/DIO.pdb
+/home/osmarcs/vscode/DIO/obj/Debug/net5.0/DIO.genruntimeconfig.cache
