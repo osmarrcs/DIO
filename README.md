@@ -8,3 +8,5 @@ Aulas_DIO
 ### #2 Introdução ao javascript
 
 ### #3 Aplicação C# usando DDD 
+
+### #4 Design Patterns
