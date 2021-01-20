@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+    color: #000000;
+    line-height: 1.5;
+}
+  .pontuacao {
+    padding: 10px;
+  }
+  body {
+    background: #fafafa;
+  }
+  
+  .background {
+    background-image: url('../sprites/background.png');
+    background-repeat: repeat-x;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 64px;
+}
+
+  .dino {
+    width: 100px;
+    height: 100px;
+    background-image: url('../sprites/dino-run.gif.gif');
+    background-size: cover;
+    position: absolute;
+    bottom: 10px;
+    margin: 0 0 0 10px;
+  }
+  
+  .cactus {
+    width: 60px;
+    height: 60px;
+    background-image: url('../sprites/obstacle.png');
+    background-size: cover;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+  }
+  
+  .gamebox, .start {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .btn {
+    width: 100%;
+    height: 40px;
+    cursor: pointer;
+    background: none;
+    border-color: #0b006b;
+    color:  #0b006b;
+    border-style: dotted;
+    margin-top: 25px;
+    padding: 5px;
+  }
+  .btn:hover {
+    border-style: dashed;
+  }
