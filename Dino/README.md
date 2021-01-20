@@ -1,7 +1,8 @@
 # DinoGame
 ## DIO - Recriando o jogo do dinossauro do Google com JavaScript.
 ### Mudei a interface
-### Adicionei um botão de start 
+### Adicionei um botão de start
+### Adicionei um Tutorial
 ### Adicionei a pontuação
 ### Utilizei sprites para as imagens
 ### gif do dinossauro
